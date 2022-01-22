@@ -1,4 +1,4 @@
-# duittracker_fe
+# DUIT TRACKER FE
 
 ## Build Setup
 
