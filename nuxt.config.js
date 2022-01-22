@@ -1,5 +1,5 @@
 export default {
-    generate: {
+  generate: {
     fallback: true
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
@@ -69,5 +69,11 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  googleFonts: {
+    families: {
+      Roboto: true
+    }
   }
 }

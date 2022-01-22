@@ -18,7 +18,7 @@
             </a>
             <a
               href="#"
-              class="ml-8 inline-flex items-center justify-center px-4 py-1 border border-transparent rounded-full text-base font-medium text-white bg-gray-600 hover:bg-grey-700"
+              class="ml-8 inline-flex items-center justify-center px-6 py-1 border border-transparent rounded-full text-base font-medium text-white bg-gray-600 hover:bg-grey-700"
             >
               Sign Up
             </a>
