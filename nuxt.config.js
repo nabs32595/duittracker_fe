@@ -1,4 +1,7 @@
 export default {
+    generate: {
+    fallback: true
+  },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
